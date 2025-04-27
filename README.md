@@ -93,5 +93,5 @@ It follows the Atlassian Confluence Project Kickoff Template structure.
 
 ## ✨ Acknowledgments
 
-* Atlassian - Project Kickoff Guidance
+* Atlassian - [Nailing your project kick-off](https://www.atlassian.com/work-management/project-management/project-kickoff)
 * North Seattle College - Application Development Program
