@@ -67,7 +67,7 @@ The app is designed to help college students easily access academic, health, and
 | App store approval delays  | Submit app early and monitor review timelines           |
 | Scope creep                | Strict change request process                           |
 | Low user engagement        | Early incentives for testers and survey feedback        |
-| Data privacy issues        | Compliance with FERPA and local privacy policies        |
+| Data privacy issues        | Compliance with FERPA(Family Educational Rights and Privacy Act) and local privacy policies        |
 
 ## Success Metrics 📈
 
